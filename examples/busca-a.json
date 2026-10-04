@@ -1,0 +1,44 @@
+{
+ "organic": [
+  {
+   "link": "https://site1.example.com/pagina",
+   "title": "t"
+  },
+  {
+   "link": "https://site2.example.com/pagina",
+   "title": "t"
+  },
+  {
+   "link": "https://site3.example.com/pagina",
+   "title": "t"
+  },
+  {
+   "link": "https://site4.example.com/pagina",
+   "title": "t"
+  },
+  {
+   "link": "https://site5.example.com/pagina",
+   "title": "t"
+  },
+  {
+   "link": "https://site6.example.com/pagina",
+   "title": "t"
+  },
+  {
+   "link": "https://site7.example.com/pagina",
+   "title": "t"
+  },
+  {
+   "link": "https://site8.example.com/pagina",
+   "title": "t"
+  },
+  {
+   "link": "https://site9.example.com/pagina",
+   "title": "t"
+  },
+  {
+   "link": "https://site10.example.com/pagina",
+   "title": "t"
+  }
+ ]
+}
